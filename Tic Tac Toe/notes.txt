@@ -1,0 +1,20 @@
+TODO:
+  1. Create the field - *CHECK*
+  2. Implement the interface for user input
+  3. Have computer choose randomly
+  4. Decide who wins
+  5. Have restart button
+
+OPTIONS:
+  1. Have user choose X or O
+  2. Make the computer choose in the appropriate places
+  3. Add good GUI
+
+OTHER:
+* for the squares, one way I could have the user input there answer, they could
+  have options to click X or O whether it is on the bottom of the screen or on
+  the squares.
+
+Recourses:
+https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn
+https://www.sitepoint.com/community/t/allow-keys-to-be-only-pressed-one-time/35809/2
